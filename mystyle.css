@@ -1,0 +1,35 @@
+/* not  valid   */
+.~my.div{
+    
+    color:blueviolet;
+}
+
+/* not  valid   */
+
+.12my_div{
+    
+    color:blueviolet;
+}
+
+/* not  valid   */
+
+.%mydiv{
+    
+    color:blueviolet;
+}
+
+/*  not  valid  */
+.my@div{
+    color:blueviolet;
+
+}
+/*  not  valid */
+.@mydiv{
+    color:blueviolet;
+
+}
+
+/*  valid  */
+._div{
+    color:blueviolet;
+}
